@@ -1,5 +1,6 @@
 # The Block Ledger
-This is a Visual Studion notebook that creates a block chian ledger. It builds a blockchain-based ledger system, complete with a user-friendly web interface using streamlit. This ledger allows partner banks to conduct financial transactions (that is, to transfer money between senders and receivers) verifies the integrity of the data in the ledger. I have included pictures of the interface as well. 
+
+This is a Visual Studio notebook that creates a block chian ledger. It builds a blockchain-based ledger system, complete with a user-friendly web interface using streamlit. This ledger allows partner banks to conduct financial transactions (that is, to transfer money between senders and receivers) verifies the integrity of the data in the ledger. I have included pictures of the interface as well. 
 ---
 
 ## Technologies
